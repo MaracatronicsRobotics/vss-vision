@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VarXML>
+	<Var name="Default" type="list">
+		<Var name="Team Name" type="string">
+			Default
+		</Var>
+		<Var name="Robot Height (mm)" type="double" minval="" maxval="">
+			80,000000
+		</Var>
+	</Var>
+	<Var name="Maracatronics" type="list">
+		<Var name="Team Name" type="string">
+			Maracatronics
+		</Var>
+		<Var name="Robot Height (mm)" type="double" minval="" maxval="">
+			80,000000
+		</Var>
+	</Var>
+</VarXML>
